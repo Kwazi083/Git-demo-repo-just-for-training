@@ -2,6 +2,9 @@
 This is the first file in this repo
 
 
-#Kwazikwakhe Buthelezi
+#My Family
 Enzokuhle Buthelezi
 Kuhlekonke Buthelezi
+
+Simphiwe Nkwanyana
+Kwazikwakhe Buthelezi
